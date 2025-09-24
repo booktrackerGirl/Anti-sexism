@@ -1,6 +1,6 @@
 # Anti-sexism
 
-This is the repository for the paper '<b>Anti-sexism: What is it, and can language models capture it?</b>'
+This is the repository for the paper '<b>Online Anti-sexist Speech: Identifying Resistance to Gender Bias in Political Discourse</b>'
 
 
  
